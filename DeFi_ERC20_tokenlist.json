@@ -15,6 +15,14 @@
       "symbol": "CFG",
       "decimals": 4,
       "logoURI":"https://centrifuge.io/f8152068fe1b0a1a5b21ccbdc9a8fd8a/mining-illustration.svg"
+    },
+    {
+      "address": "0xED69A2e6cDd9b86aB97adC785015dA1B3846329b",
+      "chainId": 1,
+      "name": "Uzkov Token",
+      "symbol": "UZKT",
+      "decimals": 4,
+      "logoURI":"https://centrifuge.io/f8152068fe1b0a1a5b21ccbdc9a8fd8a/mining-illustration.svg"
     }
   ]
 }
