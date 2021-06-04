@@ -9,21 +9,24 @@
   "keywords": [],
   "tokens": [
     {
-      "address": "0xED69A2e6cDd9b86aB97adC785015dA1B3846329b",
-      "chainId": 1,
-      "name": "Centrifuge Token",
-      "symbol": "CFG",
-      "decimals": 4,
-      "logoURI":"https://centrifuge.io/f8152068fe1b0a1a5b21ccbdc9a8fd8a/mining-illustration.svg"
+      "chainId":1,
+      "address":"0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol":"USDT",
+      "name":"Tether",
+      "decimals":6
     },
-    
     {
-      "address": "0xED69A2e6cDd9b86aB97adC785015dA1B3846329b",
+      "chainId":1,
+      "address":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol":"USDC",
+      "name":"USD Coin",
+      "decimals":6
+    {
       "chainId": 1,
-      "name": "Nesterov Token",
-      "symbol": "NEST",
-      "decimals": 4,
-      "logoURI":"https://centrifuge.io/f8152068fe1b0a1a5b21ccbdc9a8fd8a/mining-illustration.svg"
+      "address": "",
+      "symbol": "BGT",
+      "name": "Bug Token",
+      "decimals": 4
     }
   ]
 }
