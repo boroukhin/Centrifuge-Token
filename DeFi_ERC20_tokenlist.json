@@ -21,6 +21,7 @@
       "symbol":"USDC",
       "name":"USD Coin",
       "decimals":6
+    },
     {
       "chainId": 1,
       "address": "",
